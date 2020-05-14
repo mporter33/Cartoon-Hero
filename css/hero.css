@@ -1,0 +1,77 @@
+body{
+	margin: 0px;
+	font-family: Arial;
+	font-size: 15px;
+	line-height: 30px;
+
+}
+header{
+	background-color: #CA87FB;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Princess Sofia', cursive;
+}
+
+header h1 {
+	color: white;
+	text-align: center;
+	font-size: 60px;
+}
+header img{
+	border-radius: 150px;
+    width: 300px;
+    border: 7px solid #FCFF9E
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%
+}
+
+h2{
+	font-size: 35px;
+	color: #CA87FB;
+	margin:40px 0 10px;
+}
+a{
+	color:#CA87FB; 
+}
+a:hover{
+	color: #63008A;
+	background-color: #FCFF9E;
+
+}
+
+footer{
+	background-color: #CA87FB;
+	text-align: center;
+	color: white;
+	padding: 50px;
+
+footer p{
+	margin: 0;
+}
+
+}
+footer a{
+	color: white;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+p.caption{
+	color: #EDB9FF;
+	font-style: italic;
+	margin-top: 0;
+}
+
